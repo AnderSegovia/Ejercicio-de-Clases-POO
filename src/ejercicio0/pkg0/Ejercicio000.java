@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Random;
 
 
-public class Ejercicio00  {
+public class Ejercicio000  {
 
     /**
      * @param args the command line arguments
